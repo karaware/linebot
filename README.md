@@ -1,10 +1,11 @@
 # linebot
-##概要
+## 概要
 
 LINEbot「tns」がメッセージを受け取った時に返答内容を問い合わせる先のファイルです。<br>
 以下を参考にして作成しました。<br>
-https://persol-tech-s.co.jp/i-engineer/interesting/numadumari11
-##ファイル説明
+https://persol-tech-s.co.jp/i-engineer/interesting/numadumari11<br>
+
+## ファイル説明
 
 1. callback.php<br>
 tnsが受け取ったメッセージを元に返答内容を作成する<br>
